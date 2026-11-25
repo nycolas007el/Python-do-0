@@ -1,3 +1,6 @@
+'009'
+'Faça um programa que leia um número inteiro qualquer pelo teclado e mostre na tela '
+'a sua tabuada completa (do 1 ao 10), bem formatada e alinhada!'
 n1 = int(input("Digite um número "))
 print(f"{n1} x 1 = {n1*1}")
 print(f"{n1} x 2 = {n1*2}")

@@ -44,6 +44,8 @@ Aqui compartilho a resolução de cada um dos desafios propostos, documentando a
 | **008** | [`Desafio-008.py`](./Desafio-008.py) | Conversor de medidas: transformando metros em centímetros e milímetros. |
 | **009** | [`Desafio-009.py`](./Desafio-009.py) | Tabuada do número digitado pelo usuário (do 1 ao 10). |
 | **010** | [`Desafio-010.py`](./Desafio-010.py) | Conversor de moedas (Real para Dólar) com formatação de duas casas decimais. |
+| **011** | [`Desafio-011.py`](./Desafio-011.py) | Cálculo de área de parede e quantidade de tinta necessária em litros. |
+| **012** | [`Desafio-012.py`](./Desafio-012.py) | Cálculo de desconto de 5% sobre o preço de um produto usando fator multiplicativo. |
 
 ---
 
