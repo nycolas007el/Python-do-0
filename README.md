@@ -42,6 +42,8 @@ Aqui compartilho a resolução de cada um dos desafios propostos, documentando a
 | **006** | [`Desafio-006.py`](./Desafio-006.py) | Cálculo do dobro, triplo e raiz quadrada utilizando potenciação fracionária. |
 | **007** | [`Desafio-007.py`](./Desafio-007.py) | Cálculo de média aritmética entre duas notas de um aluno usando tipo `float`. |
 | **008** | [`Desafio-008.py`](./Desafio-008.py) | Conversor de medidas: transformando metros em centímetros e milímetros. |
+| **009** | [`Desafio-009.py`](./Desafio-009.py) | Tabuada do número digitado pelo usuário (do 1 ao 10). |
+| **010** | [`Desafio-010.py`](./Desafio-010.py) | Conversor de moedas (Real para Dólar) com formatação de duas casas decimais. |
 
 ---
 
