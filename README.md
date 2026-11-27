@@ -13,7 +13,7 @@ Aqui compartilho a resolução de cada um dos desafios propostos, documentando a
   - Interação com o usuário e variáveis
   - Tipos primitivos e conversão de dados (`int`, `float`, `bool`, `str`)
   - Operadores aritméticos e ordem de precedência
-  - Módulos e bibliotecas padrão
+  - Módulos e bibliotecas padrão (`math`, `random`)
   - Manipulação de texto (strings)
   - Estruturas condicionais (`if` / `else`)
 
@@ -49,6 +49,8 @@ Aqui compartilho a resolução de cada um dos desafios propostos, documentando a
 | **013** | [`Desafio-013.py`](./Desafio-013.py) | Cálculo de reajuste salarial com 15% de aumento usando fator multiplicativo. |
 | **014** | [`Desafio-014.py`](./Desafio-014.py) | Conversão de temperaturas de graus Celsius (°C) para Fahrenheit (°F). |
 | **015** | [`Desafio-015.py`](./Desafio-015.py) | Cálculo de total a pagar por aluguel de carro (diárias fixas + km rodados). |
+| **016** | [`Desafio-016.py`](./Desafio-016.py) | Quebrando um número real para extrair sua porção inteira com `math.trunc()`. |
+| **017** | [`Desafio-017.py`](./Desafio-017.py) | Cálculo da hipotenusa de um triângulo retângulo usando `math.hypot()`. |
 
 ---
 
