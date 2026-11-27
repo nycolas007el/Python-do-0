@@ -48,6 +48,7 @@ Aqui compartilho a resolução de cada um dos desafios propostos, documentando a
 | **012** | [`Desafio-012.py`](./Desafio-012.py) | Cálculo de desconto de 5% sobre o preço de um produto usando fator multiplicativo. |
 | **013** | [`Desafio-013.py`](./Desafio-013.py) | Cálculo de reajuste salarial com 15% de aumento usando fator multiplicativo. |
 | **014** | [`Desafio-014.py`](./Desafio-014.py) | Conversão de temperaturas de graus Celsius (°C) para Fahrenheit (°F). |
+| **015** | [`Desafio-015.py`](./Desafio-015.py) | Cálculo de total a pagar por aluguel de carro (diárias fixas + km rodados). |
 
 ---
 
