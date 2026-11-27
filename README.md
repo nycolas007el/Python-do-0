@@ -51,6 +51,8 @@ Aqui compartilho a resolução de cada um dos desafios propostos, documentando a
 | **015** | [`Desafio-015.py`](./Desafio-015.py) | Cálculo de total a pagar por aluguel de carro (diárias fixas + km rodados). |
 | **016** | [`Desafio-016.py`](./Desafio-016.py) | Quebrando um número real para extrair sua porção inteira com `math.trunc()`. |
 | **017** | [`Desafio-017.py`](./Desafio-017.py) | Cálculo da hipotenusa de um triângulo retângulo usando `math.hypot()`. |
+| **018** | [`Desafio-018.py`](./Desafio-018.py) | Cálculo de seno, cosseno e tangente com conversão prévia para radianos via `math.radians()`. |
+| **019** | [`Desafio-019.py`](./Desafio-019.py) | Sorteio aleatório de um item em uma lista utilizando `random.choice()`. |
 
 ---
 
