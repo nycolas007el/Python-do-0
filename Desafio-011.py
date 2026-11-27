@@ -6,5 +6,5 @@
 
 n1 = float(input("Digite a largura (em metros) : "))
 n2 = float(input("Digite a altura (em metros : )"))
-print(f"A parede é de {n1}x{n2} sua área é de {n1*n2}")
-print(f"A tinta necessaria é de {(n1*n2)/2}") 
+print(f"A parede é de {n1:.2f}x{n2:.2f} sua área é de {n1*n2:.2f}")
+print(f"A tinta necessaria é de {(n1*n2)/2:.2f}") 
