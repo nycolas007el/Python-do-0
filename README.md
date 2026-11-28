@@ -13,7 +13,7 @@ Aqui compartilho a resolução de cada um dos desafios propostos, documentando a
   - Interação com o usuário e variáveis
   - Tipos primitivos e conversão de dados (`int`, `float`, `bool`, `str`)
   - Operadores aritméticos e ordem de precedência
-  - Módulos e bibliotecas padrão (`math`, `random`)
+  - Módulos e bibliotecas padrão (`math`, `random`) e externas (`pygame`)
   - Manipulação de texto (strings)
   - Estruturas condicionais (`if` / `else`)
 
@@ -53,6 +53,8 @@ Aqui compartilho a resolução de cada um dos desafios propostos, documentando a
 | **017** | [`Desafio-017.py`](./Desafio-017.py) | Cálculo da hipotenusa de um triângulo retângulo usando `math.hypot()`. |
 | **018** | [`Desafio-018.py`](./Desafio-018.py) | Cálculo de seno, cosseno e tangente com conversão prévia para radianos via `math.radians()`. |
 | **019** | [`Desafio-019.py`](./Desafio-019.py) | Sorteio aleatório de um item em uma lista utilizando `random.choice()`. |
+| **020** | [`Desafio-020.py`](./Desafio-020.py) | Sorteio da ordem de apresentação de trabalhos utilizando `random.shuffle()`. |
+| **021** | [`Desafio-021.py`](./Desafio-021.py) | Reprodução de áudio MP3 utilizando a biblioteca externa `pygame`. |
 
 ---
 
