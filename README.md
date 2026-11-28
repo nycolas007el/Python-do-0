@@ -55,6 +55,7 @@ Aqui compartilho a resolução de cada um dos desafios propostos, documentando a
 | **019** | [`Desafio-019.py`](./Desafio-019.py) | Sorteio aleatório de um item em uma lista utilizando `random.choice()`. |
 | **020** | [`Desafio-020.py`](./Desafio-020.py) | Sorteio da ordem de apresentação de trabalhos utilizando `random.shuffle()`. |
 | **021** | [`Desafio-021.py`](./Desafio-021.py) | Reprodução de áudio MP3 utilizando a biblioteca externa `pygame`. |
+| **022** | [`Desafio-022.py`](./Desafio-022.py) | Análise de texto completo com manipulação de maiúsculas, minúsculas e contagem com `.split()`. |
 
 ---
 
